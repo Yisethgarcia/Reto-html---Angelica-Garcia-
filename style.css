@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+}
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+th {
+    background-color: rgb(127, 181, 224);
+}
+caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
